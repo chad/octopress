@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://chad.github.com
-title: My Octopress Blog
+title: Chad Fowler
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Chad Fowler
 simple_search: http://google.com/search
 description:
 
@@ -96,4 +96,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
